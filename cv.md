@@ -1,12 +1,12 @@
 RESUME
 
-Natallia Nikitina
+ 1. _**Natallia Nikitina**_
 
-mobile +375 29 664 44 34
+2. **mobile** +375 29 664 44 34
 
-email nikitinanf@gmail.com
+**email** nikitinanf@gmail.com
 
-1. I am a self-motivated, creative, and ambitious individual seeking employment as an Junior Front-end Developer. Coming with certifications in HTML, CSS, and JavaScript , I can use my coursework experience and strong ability to effectively design, maintain, and contribute to creating great website systems.
+3. **Summary:**I am a self-motivated, creative, and ambitious individual seeking employment as an Junior Front-end Developer. Coming with certifications in HTML, CSS, and JavaScript , I can use my coursework experience and strong ability to effectively design, maintain, and contribute to creating great website systems.
 My education has given me a strong background in Front-end developing. During my coursework at RSSchool and Belhard IT Academy, I designed and coded web pages using user interface best practices, including accessibility and usability using HTML, CSS, and Javascript to develop well-designed web and mobile web pages using jQuery, Angular JS, Bootstrap and other . Developed pages in HTML/CSS/ jQuery considering user interface best practice.
 *Administered and managed Content Management systems, Dreamweaver and Microsoft Expression.
 *Created scripts, applications, and APIs.
@@ -14,33 +14,33 @@ My education has given me a strong background in Front-end developing. During my
 *Coded HTML emails into appropriate email sending platform, properly linking to landing pages on website and testing all emails and landing pages for quality across various
 *Working experience with version control tools – Git.
 
-2. Skills: 
+4. **Skills:** 
 
-*HTML *CSS *Javascript *PHP(little) 
+* HTML, CSS, Javascript, PHP(little) 
 
-*Bootstrap *jQuery *Angular JS *Fabric.JS   *Wordpress *Bitrix 
+* Bootstrap, jQuery, Angular JS, Fabric.JS, Wordpress, Bitrix 
 
-*Visual Studio Code *Brackets *Git *Open Server *Figma *Photoshop *PerfectPixel *PSDETCH
+* Visual Studio Code, Brackets, Git, Open Server, Figma, Photoshop, PerfectPixel, PSDETCH
 
-3. Code examples: will be soon.
+5.  **Code examples:** will be soon.
 
-4. Administrative and Accounting experience:
+6. Administrative and Accounting **Experience:**
 
-*Deputy Director of Finance, BelEuroPack
-*Accounting Manager, SouzInvestStroy
-*Financial Manager, ITC engineering.
+* Deputy Director of Finance, BelEuroPack
+* Accounting Manager, SouzInvestStroy
+* Financial Manager, ITC engineering.
 
-5. Education: 
+5. **Education:** 
 
-*Certificate in Modern Front-end with JavaScript and HTML5, IT-academy Belhard
+* Certificate in Modern Front-end with JavaScript and HTML5, IT-academy Belhard
 
-*Bachelor of Economics (Degree with Honors), Belarus State Economic University
+* Bachelor of Economics (Degree with Honors), Belarus State Economic University
 
-*On-line lessons : HTML, CSS, JS, GitHub
+* On-line lessons : HTML, CSS, JS, GitHub
 
-*codecademy.com : HTML, CSS
+* codecademy.com : HTML, CSS
 
-*htmlacademy.ru : HTML, CSS
+* htmlacademy.ru : HTML, CSS
 
-6. English level: I have only A2.
+6. **English level:** I have only A2.
 
