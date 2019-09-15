@@ -2,11 +2,11 @@ RESUME
 
  1. _**Natallia Nikitina**_
 
-2. **mobile** +375 29 664 44 34
+2. **mobile** +375 29 664 44 34 **email** nikitinanf@gmail.com
 
-**email** nikitinanf@gmail.com
 
-3. **Summary:**I am a self-motivated, creative, and ambitious individual seeking employment as an Junior Front-end Developer. Coming with certifications in HTML, CSS, and JavaScript , I can use my coursework experience and strong ability to effectively design, maintain, and contribute to creating great website systems.
+
+3. **Summary:** I am a self-motivated, creative, and ambitious individual seeking employment as an Junior Front-end Developer. Coming with certifications in HTML, CSS, and JavaScript , I can use my coursework experience and strong ability to effectively design, maintain, and contribute to creating great website systems.
 My education has given me a strong background in Front-end developing. During my coursework at RSSchool and Belhard IT Academy, I designed and coded web pages using user interface best practices, including accessibility and usability using HTML, CSS, and Javascript to develop well-designed web and mobile web pages using jQuery, Angular JS, Bootstrap and other . Developed pages in HTML/CSS/ jQuery considering user interface best practice.
 *Administered and managed Content Management systems, Dreamweaver and Microsoft Expression.
 *Created scripts, applications, and APIs.
